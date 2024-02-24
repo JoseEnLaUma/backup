@@ -1,0 +1,3 @@
+1. Manuel Enciso Garcia-Oliveros; Miguel Ortiz; Sergio Gálvez Rojas
+
+2. SELECT NOMBRE, APELLIDO1, APELLIDO2 FROM PROFESORES WHERE DEPARTAMENTO != 3
